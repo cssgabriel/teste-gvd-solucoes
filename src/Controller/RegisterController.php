@@ -42,7 +42,6 @@ class RegisterController implements Controller
     ]);
 
     FlashMessage::setMessage("Usuário cadastrado com sucesso", ['alert', 'alert-success']);
-    redirect("/");
-    echo 'a';
+    return redirect("/");
   }
 }
