@@ -24,4 +24,4 @@ Utilize o comando abaixo para iniciar o servidor embutido do PHP.
 php -S localhost:7070 -t public
 ```
 
-Acesse (localhost:7070)[localhost:7070]
+Acesse [localhost:7070](localhost:7070)
